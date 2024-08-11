@@ -1,0 +1,14 @@
+{
+  "name": "@comfyorg/comfyui_legacy_frontend",
+  "version": "1.0.0",
+  "description": "ComfyUI legacy JS frontend",
+  "main": "src/index.html",
+  "author": "ComfyUI developers",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "zipdist": "node scripts/zipdist.mjs"
+  },
+  "devDependencies": {
+    "zip-dir": "^2.0.0"
+  }
+}
